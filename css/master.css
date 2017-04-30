@@ -1,0 +1,8 @@
+nav {background-color: red; width: 125 px;
+height: 600 px;
+display: inline-block;
+font-size: 18 px;}
+
+.centered {
+  text-align: center;
+}
